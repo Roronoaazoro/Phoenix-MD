@@ -4,7 +4,7 @@
   "description": "Phoenix-MD Simple WhatsApp Bot",
   "logo": "https://i.imgur.com/T78fhJk.jpeg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot", "plugins", "AbhishekSuresh", "Whatsapp-bot-md"],
-  "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
+  "repository": "https://github.com/zoroxak",
   "stack": "container",
   "env": {
     "SESSION_ID": {

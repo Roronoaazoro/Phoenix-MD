@@ -21,7 +21,7 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Abhishek Suresh",
+  "author": "zoroxak",
   "license": "Apache-2.0",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.7.2",

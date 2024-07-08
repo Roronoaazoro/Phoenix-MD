@@ -39,12 +39,12 @@
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "zoroxak"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "15137955212"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",

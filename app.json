@@ -13,7 +13,7 @@
     },
     "PREFIX": {
       "description": "Enter Prefix For Commands Use Emojis Also",
-      "required": true,
+      "required": false,
       "value": "."
     },
     "SUDO": {
@@ -23,12 +23,12 @@
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
-      "required": false,
+      "required": true,
       "value": "10"
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
-      "required": false,
+      "required": true,
       "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;zoroxak☘️"
     },
     "AUDIO_DATA": {
